@@ -29,7 +29,7 @@
 ---
 
 ### 🤝 More About Me
-- 🔭 I’m currently working on **rxn_lib or RX**
+- 🔭 I’m currently working on **rxn_lib and RX**
 - 🌱 I’m currently learning **React, C++, JS**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **Lua, JavaScript, and game development**
