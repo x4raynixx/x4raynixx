@@ -7,7 +7,6 @@
 ### 🔥 About Me
 - 🌐 Developing modern web applications
 - ⚙️ Learning and mastering **C, C++, Lua, JavaScript, Python, React, Next.js**
-- 🛠️ Creating my own programming language: **rx (.rx)**
 
 ---
 
@@ -23,19 +22,17 @@
 ---
 
 ### 🤝 More About Me
-- 🔭 I’m currently working on **rxn_lib and RX**
-- 🌱 I’m currently learning **React, C++, JS**
+- 🔭 I’m currently working on **[rxn_lib](https://github.com/x4raynixx/rxn_lib), [RX](https://github.com/x4raynixx/RX-Programming-Language), [Zaxora [Soon](soon)**
+- 🌱 I’m currently learning **React, C++, JS, Next.js, Python**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **Lua, JavaScript, and game development**
-- 📫 How to reach me: [Discord](https://discord.gg/mXxsvFqq9c)
+- 📫 How to reach me:
+    -  [Discord](https://discord.gg/mXxsvFqq9c)
+    -  [Discord 2](https://discord.gg/rxn)
+    -  [Discord 3](https://discord.gg/raxbrowser)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I started my coding carrier by first time using Lua in FiveM**
+- ⚡ Fun fact: **I started my coding carrier by first time creating a Lua script in FiveM**
 
 ---
 
 ### 📊 GitHub Stats
-![Raynixx's GitHub stats](https://github-readme-stats.vercel.app/api?username=x4raynixx&show_icons=true&theme=tokyonight)
-
----
-
-⭐ **Always learning, always building. Let's connect!**
+![Stats](https://github-readme-stats.vercel.app/api?username=x4raynixx&show_icons=true&theme=tokyonight)
