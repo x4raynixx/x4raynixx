@@ -22,12 +22,6 @@
 
 ---
 
-### 🚧 Current Projects
-- ⚙️ **rx Programming Language** – Developing my own language from scratch
-- 🖥️ **Video Web App** – A TikTok/YouTube-style platform for sharing videos
-
----
-
 ### 🤝 More About Me
 - 🔭 I’m currently working on **rxn_lib and RX**
 - 🌱 I’m currently learning **React, C++, JS**
