@@ -22,7 +22,7 @@
 ---
 
 ### 🤝 More About Me
-- 🔭 I’m currently working on **[rxn_lib](https://github.com/x4raynixx/rxn_lib), [RX](https://github.com/x4raynixx/RX-Programming-Language), [Zaxora [Soon](soon)**
+- 🔭 I’m currently working on **[rxn_lib](https://github.com/x4raynixx/rxn_lib), [RX](https://github.com/x4raynixx/RX-Programming-Language), [Zaxora [Soon]](soon)**
 - 🌱 I’m currently learning **React, C++, JS, Next.js, Python**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 📫 How to reach me:
