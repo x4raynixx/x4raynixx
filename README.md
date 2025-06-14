@@ -1,11 +1,9 @@
 ## Hi there, I'm Raynixx! 👋
 
-🚀 **Passionate Developer | Web & Game Development Enthusiast**
-
 ---
 
 ### 🔥 About Me
-- 🌐 Developing modern web applications
+- 🌐 Developing Tools & Apps
 - ⚙️ Learning and mastering **C, C++, Lua, JavaScript, Python, React, Next.js**
 
 ---
