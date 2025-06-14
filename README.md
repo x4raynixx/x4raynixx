@@ -1,7 +1,5 @@
 ## Hi there, I'm Raynixx! 👋
 
----
-
 ### 🔥 About Me
 - 🌐 Developing Tools & Apps
 - ⚙️ Learning and mastering **C, C++, Lua, JavaScript, Python, React, Next.js**
