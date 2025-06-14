@@ -25,7 +25,7 @@
 ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23000.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![RX](https://img.shields.io/badge/RX-%236A0DAD.svg?style=for-the-badge&logo=https://raw.githubusercontent.com/x4raynixx/Ryxon/refs/heads/master/rx.png&logoColor=white)
+
 
 ---
 
