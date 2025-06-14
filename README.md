@@ -1,8 +1,9 @@
 ## Hi there, I'm Raynixx! 👋
 
 ### 🔥 About Me
-- 🌐 Developing Tools & Apps
-- ⚙️ Learning and mastering **C, C++, Lua, JavaScript, Python, React, Next.js**
+> 🌐 Developing Tools & Apps
+
+> ⚙️ Learning and mastering **C, C++, Lua, JavaScript, Python, React, Next.js**
 
 ---
 
@@ -18,8 +19,8 @@
 ---
 
 ### 🤝 More About Me
-- 🔭 I’m currently working on **[rxn_lib](https://github.com/x4raynixx/rxn_lib), [RX](https://github.com/x4raynixx/RX-Programming-Language), [Zaxora [Soon]](https://genius-penguin.static.domains/soon)**
-- 🌱 I’m currently learning **React, C++, JS, Next.js, Python**
+- 🔭 I’m currently working on [RX](https://github.com/x4raynixx/Ryxon), [Zaxora [Soon]](soon)**
+- 🌱 I’m currently learning **React, C++, JS, TS, Next.js**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 📫 How to reach me:
     -  [Discord](https://discord.gg/mXxsvFqq9c)
@@ -31,4 +32,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=x4raynixx&show_icons=true&theme=tokyonight)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=x4raynixx&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=gruvbox&bg_color=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x4raynixx&layout=compact&theme=gruvbox&bg_color=00000000)
