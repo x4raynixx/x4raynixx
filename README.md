@@ -48,4 +48,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x4raynixx&layout=compact&theme=gruvbox&bg_color=00000000)
 
-![Discord]()
+![Discord](https://presx.ezfr.pl/stream/status/1179393999614775306?style=dark)
