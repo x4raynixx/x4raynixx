@@ -38,7 +38,7 @@
     -  [Discord 2](https://discord.gg/rxn)
     -  [Discord 3](https://discord.gg/raxbrowser)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I started my coding carrier by first time creating a Lua script in FiveM**
+- ⚡ Fun fact: **I started my coding career by first time creating a Lua script in FiveM**
 
 ---
 
@@ -47,5 +47,3 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=x4raynixx&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=gruvbox&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x4raynixx&layout=compact&theme=gruvbox&bg_color=00000000)
-
-![Discord](https://presx.ezfr.pl/stream/status/1179393999614775306?style=dark)
