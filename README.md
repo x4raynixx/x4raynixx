@@ -1,12 +1,5 @@
 ## Hi there, I'm Raynixx! 👋
 
-### 🔥 About Me
-> 🌐 Developing Tools & Apps
-
-> ⚙️ Learning and mastering **C, C++, Lua, JavaScript, Python, React, Next.js**
-
----
-
 ### 🛠️ Tech Stack
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +15,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-%234E9CDB.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23000.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
@@ -30,13 +22,11 @@
 ---
 
 ### 🤝 More About Me
-- 🔭 I’m currently working on [RX](https://github.com/x4raynixx/Ryxon), [Zaxora [Soon]](soon)**
-- 🌱 I’m currently learning **React, C++, JS, TS, Next.js**
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning **C/C++**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 📫 How to reach me:
-    -  [Discord](https://discord.gg/mXxsvFqq9c)
-    -  [Discord 2](https://discord.gg/rxn)
-    -  [Discord 3](https://discord.gg/raxbrowser)
+    -  [Discord]()
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I started my coding career by first time creating a Lua script in FiveM**
 
