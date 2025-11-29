@@ -22,18 +22,10 @@
 ---
 
 ### 🤝 More About Me
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on **Nothing**
 - 🌱 I’m currently learning **C/C++**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 📫 How to reach me:
     -  [Discord]()
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I started my coding career by first time creating a Lua script in FiveM**
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=x4raynixx&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=gruvbox&bg_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x4raynixx&layout=compact&theme=gruvbox&bg_color=00000000)
