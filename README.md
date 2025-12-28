@@ -22,10 +22,10 @@
 ---
 
 ### 🤝 More About Me
-- 🔭 I’m currently working on **Nothing**
-- 🌱 I’m currently learning **C/C++**
+- 🔭 I’m currently working on **Alesh & Blush**
+- 🌱 I’m currently still mastering **C/C++**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 📫 How to reach me:
-    -  [Discord]()
+    -  [Discord](https://discord.gg/6BFcyfUdwn)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I started my coding career by first time creating a Lua script in FiveM**
